@@ -1,0 +1,63 @@
+# KiCad specific ignore rules
+*.bak
+*.kicad_pcb-bak
+*-cache.lib
+fp-info-cache
+*.sch-bak
+*~.save
+*.pro.user
+Gerber/
+
+# Compiled output files
+*.dsn
+*,ses
+
+# Backup files
+*.bck
+*.bak
+*~
+
+# Zip archives
+*.zip
+
+# Autosave files
+_autosave-*
+
+# macOS system files
+.DS_Store
+.appleDouble
+.LSOverride
+
+# Icon must end with two /r
+Icon
+
+
+# Thumbnails
+._*
+
+# Files that might appear on external disks
+.Spotlight-V100
+.DocumentRevisions-V100
+
+# Directories on AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+
+# Folder config files
+Desktop.ini
+
+# Recycle bin
+$RECYCLE.BIN/
+
+#Window sintaller files
+*.cab
+*.msi
+*.msm
+*.msp

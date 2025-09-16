@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Solartron Earthy Processor")(type "KiCad")(uri "${KIPRJMOD}/Solartron Earthy Processor.pretty")(options "")(descr ""))
+)

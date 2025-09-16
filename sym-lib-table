@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SamacSys_Parts")(type "KiCad")(uri "C:/SamacSys_PCB_Library/KiCad/SamacSys_Parts.kicad_sym")(options "")(descr ""))
+  (lib (name "Solartron Earthy Processor")(type "KiCad")(uri "${KIPRJMOD}/Solartron Earthy Processor.kicad_sym")(options "")(descr ""))
+)

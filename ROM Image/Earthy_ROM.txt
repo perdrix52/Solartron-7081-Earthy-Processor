@@ -1,0 +1,13 @@
+The file Earthy_ROM.bin is a binary image for the U430 M27C512-70XF1 EPROM (or AT27C512R-70PU OTP PROM).
+I used 70ns parts, but I suspect that slower ones would also work.
+
+
+It is built from the ROM images with revision code DD issued on 8 December 1986.
+Revision code DD was the final firmware release issued for the 7071 and 7081 meters.
+
+The CRC16 checksums is:
+ 
+ U430	B100
+
+Dave Partridge
+david.partridge@perdrix.co.uk
